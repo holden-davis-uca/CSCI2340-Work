@@ -1,2 +1,1 @@
-# Assembly
-Assignments and Labs done for Assembly Language Programming
+# Labs and Assignments done for CSCI 2340 - Assembly Language Programming
